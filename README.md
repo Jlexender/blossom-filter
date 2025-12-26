@@ -1,6 +1,6 @@
 # Blossom Filter
 
-A type-safe generic, modified Bloom filter implementation in Go.
+Generic-type Bloom filter implementation in Go.
 
 ## Usage
 
