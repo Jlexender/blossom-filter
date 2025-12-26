@@ -1,7 +1,6 @@
-package core
+package hash
 
 import "github.com/dchest/siphash"
-
 
 type Hash interface {
 	Compute(data []byte) uint32

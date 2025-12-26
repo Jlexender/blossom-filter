@@ -1,4 +1,4 @@
-package core
+package hash
 
 // hashes := filterSize/elements * ln(2). There we assume elements=1.
 // see https://en.wikipedia.org/wiki/Bloom_filter#Optimal_number_of_hash_functions
